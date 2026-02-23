@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshanag4217" alt="darshanag4217" /></a> </p>
 
-- 🔭 I’m currently working on [AI Voice Detection System]
+- 🔭 I’m currently working on [Banking-System]
 )
 
 - 🌱 I’m currently learning *Full Stack Web Development*
