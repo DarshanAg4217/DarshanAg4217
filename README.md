@@ -1,33 +1,76 @@
-<h1 align="center">Hi 👋, I'm Darshan Vinod Agrawal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Darshan Vinod Agrawal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanag4217&label=Profile%20views&color=0e75b6&style=flat" alt="darshanag4217" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshanag4217" alt="darshanag4217" /></a> </p>
-
-- 🔭 I’m currently working on [Banking-System]
-)
-
-- 🌱 I’m currently learning *Full Stack Web Development*
-
-- 💬 Ask me about *React, gsap*
-
-- 📫 How to reach me **https://www.instagram.com/_darshan__55?igsh=MWhvNjhubzJkbXBnbQ==**
-
-- ⚡ Fun fact *I very chill guy*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/darshan-agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-agrawal" height="30" width="40" /></a>
-<a href="https://instagram.com/_darshan__55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_darshan__55" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/darshan_agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshan_agrawal" height="30" width="40" /></a>
+<p align="center">
+Backend-Focused Full Stack Engineer <br/>
+Node.js • Express • MongoDB • Scalable API Systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanag4217&show_icons=true&locale=en&layout=compact" alt="darshanag4217" /></p>
+## 🧠 Engineering Focus
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshanag4217&show_icons=true&locale=en" alt="darshanag4217" /></p>
+I build structured and scalable backend systems with clean architecture and production-ready API design.  
+My focus areas include authentication flows, transaction integrity, modular architecture, and database consistency.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanag4217&" alt="darshanag4217" /></p>
+Frontend knowledge supports backend-driven applications.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🚀 Backend (Primary - 65%)
+- Node.js
+- Express.js
+- MongoDB (Mongoose)
+- REST API Architecture
+- JWT Authentication & Middleware
+- MVC Pattern
+- Transaction Processing Systems
+- Error Handling & Validation
+
+### 🎨 Frontend (Supporting - 35%)
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3 / Tailwind CSS
+
+---
+
+## 🏦 Selected Projects
+
+### Banking System
+A modular backend architecture simulating real-world banking operations.
+- Atomic transaction processing
+- Ledger & balance tracking
+- Email notifications
+- Role-based authentication
+- Structured controller-service architecture
+
+### Notes API
+Production-style REST API backend.
+- Full CRUD operations
+- Schema validation using Mongoose
+- Organized routes & middleware
+- Clean and scalable structure
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanag4217&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanag4217&show_icons=true&hide_border=true" />
+</p>
+
+---
+
+## 🔗 Connect
+
+LinkedIn → https://linkedin.com/in/darshan-agrawal
