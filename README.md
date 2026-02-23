@@ -58,7 +58,7 @@ Production-style REST API backend.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanag4217&show_icons=true&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanag4217&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Production-style REST API backend.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanag4217&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanag4217&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
