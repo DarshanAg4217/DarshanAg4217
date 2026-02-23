@@ -66,7 +66,7 @@ Production-style REST API backend.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanag4217&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=darshanag4217&theme=github-dark&hide_border=true" />
 </p>
 
 ---
