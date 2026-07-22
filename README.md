@@ -1,57 +1,59 @@
 <h1 align="center">Darshan Vinod Agrawal</h1>
 
 <p align="center">
-Backend-Focused Full Stack Engineer <br/>
-Node.js • Express • MongoDB • Scalable API Systems
+DevOps Engineer <br/>
+Linux • Networking • Git • GitHub • Docker • Kubernetes • AWS
 </p>
 
 ---
 
 ## 🧠 Engineering Focus
 
-I build structured and scalable backend systems with clean architecture and production-ready API design.  
-My focus areas include authentication flows, transaction integrity, modular architecture, and database consistency.
+I build reliable, scalable, and production-ready infrastructure using modern DevOps practices.
 
-Frontend knowledge supports backend-driven applications.
+My focus areas include Linux system administration, networking, containerization, orchestration, cloud infrastructure, CI/CD automation, infrastructure management, and deployment strategies to deliver secure and highly available applications.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🚀 Backend (Primary - 65%)
+### ⚡ DevOps & Cloud (Primary)
+- Linux
+- Computer Networking
+- Git
+- GitHub
+- Docker
+- Kubernetes
+- Amazon Web Services (AWS)
+- CI/CD
+- Infrastructure Automation
+- Shell Scripting
+
+### 💻 Development
+- JavaScript (ES6+)
+- React.js
 - Node.js
 - Express.js
-- MongoDB (Mongoose)
-- REST API Architecture
-- JWT Authentication & Middleware
-- MVC Pattern
-- Transaction Processing Systems
-- Error Handling & Validation
-
-### 🎨 Frontend (Supporting - 35%)
-- React.js
-- JavaScript (ES6+)
+- MongoDB
 - HTML5
-- CSS3 / Tailwind CSS
+- CSS3
+- Tailwind CSS
 
 ---
 
-## 🏦 Selected Projects
+## 🏗️ Engineering Interests
 
-### Banking System
-A modular backend architecture simulating real-world banking operations.
-- Atomic transaction processing
-- Ledger & balance tracking
-- Email notifications
-- Role-based authentication
-- Structured controller-service architecture
+### Cloud Infrastructure
+Building scalable and highly available cloud environments with modern DevOps practices.
 
-### Notes API
-Production-style REST API backend.
-- Full CRUD operations
-- Schema validation using Mongoose
-- Organized routes & middleware
-- Clean and scalable structure
+### Containerization & Orchestration
+Deploying and managing containerized applications using Docker and Kubernetes.
+
+### CI/CD Automation
+Designing automated build, testing, and deployment workflows for faster and reliable software delivery.
+
+### Infrastructure Management
+Managing Linux servers, networking, security, monitoring, and deployment environments following industry best practices.
 
 ---
 
@@ -73,4 +75,12 @@ Production-style REST API backend.
 
 ## 🔗 Connect
 
-LinkedIn → https://linkedin.com/in/darshan-agrawal
+<p align="left">
+
+💼 LinkedIn: https://linkedin.com/in/darshan-agrawal
+
+📧 Email: agrawaldarshan4217@gmail.com
+
+📷 Instagram: https://instagram.com/_darshan__55
+
+</p>
